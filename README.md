@@ -1,4 +1,4 @@
-# Final Project 2 (Linear Regression & SVM)
+# Final Project 2 (Logistic Regression & SVM)
 
 ## Kelompok 3 - PYTN KS 014
 
