@@ -23,7 +23,7 @@ with col2:
 with col1:
     Pressure9am = st.number_input('input tekanan atmosfer')
 with col2:
-    RainToday = st.number_input('cuaca hari ini (0=hujan, 1=tidak hujan)')    
+    RainToday = st.number_input('cuaca hari ini (0=tidak hujan, 1=hujan)')    
 
 predict = ''
 
